@@ -1,0 +1,11 @@
+<color=#1DA8FFFF>ZUA</color>
+<color=#00ee00FF>OFFEN</color>
+<color=#FF7800FF>ÖFFNET</color>
+<color=#ee0000FF>VEAWEIGAT</color>
+<color=#ee0000FF>ZUASPEARRT</color>
+<color=#00C0eeFF>SCHLÜSSKKORTEN BENÖTIGT</color>
+<color=#00ee00FF>ZUAGRIFF GEWÄHRT</color>
+<color=#ee0000>ZUAGRIFF VEAWEIGAT</color>
+<color=#ee7900FF>BITTE PASSIERN</color>
+<color=#00ee00FF>EVAKUIEREN</color>
+<color=#ee7900FF>SCHLIASSEN</color>
