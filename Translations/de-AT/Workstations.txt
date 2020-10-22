@@ -1,0 +1,18 @@
+<size=100>ORBEITSSTATION - GSPERRT</size>\nZugriff vo unauthorisiertes Personal is streng vaboten\nBitte vabind dei Weapon Manager Tablet um dei Identität zu bestätigen
+<size=100>BITTE KUAZ WOATN</size>\nverifying the connected weapon manager
+<size=100>ORBEITSSTATION - BEREIT</size>\n\nbitte de Woffn, die du ändern wüst, ausrüstn
+<size=80>WOS WÜST DU ÄNDERN?</size>
+Visiere ({0} ready)
+Laufverlängerungen ({0} verfügboar)
+ondere Aufsätze ({0} verfügboar)
+ZRUCK
+Schoden {0}
+Schusslautstärkn {0}
+Rückstoß {0}
+Schussroten {0}
+Kugelstreuung (ohne zühn) {0}
+<color=red>ändert des Visier</color>
+<color=green>Fernrohr-typ visiere</color>
+Zoomstärkn <color=green>{0}</color>
+Rückstoß (mit zühn) {0}
+<size=100>SERVAS!</size>\nDerzeitige Sitzung wird beendet
