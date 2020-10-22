@@ -34,3 +34,7 @@ Fluchtzeit: [escape_minutes] Minuten und [escape_seconds] Sekunden.
 Woat [time] bist du wieder [item] benutzen konnst.
 HOID <color=white><b>F1</b></color> FIA MEHR INFORMATIONEN
 Du bist gefesslt woan\n<size=40>Foig den Onweisungen oda frog deine Teammates um Hüfe</size>
+Du bist vo dem MTF wieda eigfonga worn.\nMit ana Gfohr weniga in da Eirichtung, is es eana Möglich stärker zum wean.
+Du bist, als Wissenschoftla, vo dea Chaos Insurgency gfonga worn.\nSie hom an Voateil griagt, donk der Information wöche du Eana gem host.
+RUNDN STARTET IN: <color=yellow>{0}</color>s
+RUNDNSTART IS <color=#FF5050>PAUSIERT</color>
