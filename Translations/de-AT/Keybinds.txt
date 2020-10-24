@@ -1,20 +1,20 @@
 Schiassen
-Zoomen
-Springa
-Interagieren
-Inventar
+Zooman
+Springan
+Intaagian
+Inventa
 Nochlodn
-Rena
+Rennan
 Sprochchat
 Schleichn
-Vorwärts geh
-Rückwärts geh
+Vuawoads geh
+Ruckwards geh
 Links geh
 Rechts geh
-Spielalistn
-Charakterinfo
+Spülalistn
+Charaktainfo
 Remote Admin
 Toschnlompen Ei/Ausschoiten
-Alternativer Sprochchat
+Oitanativa Sprochchat
 Noclip
-Spükonsoin
+Spühkonsui
