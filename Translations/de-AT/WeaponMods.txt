@@ -1,17 +1,17 @@
-KEINE MODS
+KANE MODS
 Nix
-Holo Visier
-Rot Punkt Visir
-Blau Punkt Visir
-Kollimator Visir
-Nochtsicht Visir
+Holo Visia
+Rot Punkt Visia
+Blau Punkt Visia
+Kollimator Visia
+Nochtsicht Visia
 Schoafschützen Visir
 Schoidämpfer
 Schoidämpfer
 Schwarer Lauf
-Mündungsbremsen
-Mündungsverstärker
-Kreiselstabilisator
+Mündungsbremsn
+Mündungsverstärka
+Kreiselstabilisatoa
 Toschnlompn
 Laser
 Munitionsonzeige
