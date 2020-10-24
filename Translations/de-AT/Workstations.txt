@@ -10,9 +10,9 @@ Schoden {0}
 Schusslautstärkn {0}
 Rückstoß {0}
 Schussroten {0}
-Kugelstreuung (ohne zühn) {0}
-<color=red>ändert des Visier</color>
-<color=green>Fernrohr-typ visiere</color>
+Kugelstreiung (ohne zühn) {0}
+<color=red>ändat as Visia</color>
+<color=green>Fernroa-typ Visiere</color>
 Zoomstärkn <color=green>{0}</color>
 Rückstoß (mit zühn) {0}
-<size=100>SERVAS!</size>\nDerzeitige Sitzung wird beendet
+<size=100>SERVAS!</size>\nDerzatige Sitzung wiad beendet
